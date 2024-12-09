@@ -3,7 +3,7 @@
 1,Vinicius Junior,Left Winger,24,"Brazil, Spain",Real Madrid,200.0
 2,Jude Bellingham,Attacking Midfield,21,"England, Ireland",Real Madrid,180.0
 3,Kylian Mbappé,Centre-Forward,25,"France, Cameroon",Real Madrid,180.0
-4,Lamine Yamal,Right Winger,17,"Spain, Morocco",FC Barcelona,150.0
+4,Lamine Yamal,Right Winger,17,"Spain, Equatorial Guinea",FC Barcelona,150.0
 5,Phil Foden,Right Winger,24,England,Manchester City,150.0
 6,Bukayo Saka,Right Winger,23,"England, Nigeria",Arsenal FC,140.0
 7,Florian Wirtz,Attacking Midfield,21,Germany,Bayer 04 Leverkusen,130.0
@@ -221,7 +221,7 @@
 219,Karim Adeyemi,Left Winger,22,"Germany, Nigeria",Borussia Dortmund,35.0
 220,Nico González,Right Winger,26,"Argentina, Italy",Juventus FC,35.0
 221,Brian Brobbey,Centre-Forward,22,"Netherlands, Ghana",Ajax Amsterdam,35.0
-222,Reece James,Right-Back,24,England,Chelsea FC,35.0
+222,Reece James,Right-Back,25,England,Chelsea FC,35.0
 223,Khéphren Thuram,Central Midfield,23,"France, Guadeloupe",Juventus FC,35.0
 224,Curtis Jones,Central Midfield,23,England,Liverpool FC,35.0
 225,Quinten Timber,Central Midfield,23,"Netherlands, Curacao",Feyenoord Rotterdam,35.0
@@ -230,7 +230,7 @@
 228,Joey Veerman,Central Midfield,26,Netherlands,PSV Eindhoven,35.0
 229,Dávid Hancko,Centre-Back,26,Slovakia,Feyenoord Rotterdam,35.0
 230,Edson Álvarez,Defensive Midfield,27,Mexico,West Ham United,35.0
-231,Harvey Barnes,Left Winger,26,"England, Scotland",Newcastle United,35.0
+231,Harvey Barnes,Left Winger,27,"England, Scotland",Newcastle United,35.0
 232,Davide Frattesi,Central Midfield,25,Italy,Inter Milan,35.0
 233,Alessandro Buongiorno,Centre-Back,25,Italy,SSC Napoli,35.0
 234,Axel Disasi,Centre-Back,26,"France, DR Congo",Chelsea FC,35.0
@@ -250,13 +250,13 @@
 248,André Onana,Goalkeeper,28,Cameroon,Manchester United,35.0
 249,Oleksandr Zinchenko,Left-Back,27,Ukraine,Arsenal FC,35.0
 250,Leandro Trossard,Left Winger,30,Belgium,Arsenal FC,35.0
-251,Raheem Sterling,Left Winger,29,"England, Jamaica",Arsenal FC,35.0
+251,Raheem Sterling,Left Winger,30,"England, Jamaica",Arsenal FC,35.0
 252,Charles De Ketelaere,Attacking Midfield,23,Belgium,Atalanta BC,34.0
 253,Ilya Zabarnyi,Centre-Back,22,Ukraine,AFC Bournemouth,32.0
 254,Jacob Ramsey,Attacking Midfield,23,England,Aston Villa,32.0
 255,Pedro Gonçalves,Left Winger,26,Portugal,Sporting CP,32.0
 256,Lutsharel Geertruida,Right-Back,24,"Netherlands, Curacao",RB Leipzig,32.0
-257,Scott McTominay,Central Midfield,27,"Scotland, England",SSC Napoli,32.0
+257,Scott McTominay,Central Midfield,28,"Scotland, England",SSC Napoli,32.0
 258,Fikayo Tomori,Centre-Back,26,"England, Canada",AC Milan,32.0
 259,Rúben Neves,Defensive Midfield,27,Portugal,Al-Hilal SFC,32.0
 260,Vitor Roque,Centre-Forward,19,Brazil,Real Betis Balompié,30.0
